@@ -1,0 +1,9 @@
+{
+	"name": "Kastri",
+	"description": "Kastri Firemonkey IOS utilities",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./Core",
+	"projects": [],
+	"dependencies": {}
+}
