@@ -1,6 +1,6 @@
 {
 	"name": "Kastri",
-	"description": "Kastri Firemonkey IOS utilities",
+	"description": "Kastri Firemonkey utilities",
 	"version": "1.0.0",
 	"homepage": "",
 	"mainsrc": "./Features",
